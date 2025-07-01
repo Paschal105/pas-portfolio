@@ -5,7 +5,7 @@ import { HiOutlineMail } from "react-icons/hi";
 import SingleInfo from './SingleInfo';
 
 
-const COntactInfo = () => {
+const ContactInfo = () => {
   return (
     <div className='flex flex-col gap-4 text-white'>
         <SingleInfo text="OjatabuPaschal@gmail.com" Image={HiOutlineMail}/>
@@ -16,4 +16,4 @@ const COntactInfo = () => {
   )
 }
 
-export default COntactInfo
+export default ContactInfo
