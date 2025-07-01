@@ -4,7 +4,7 @@ import ContactMeMain from './components/contactMeSection/ContactMeMain';
 import ExperienceMain from './components/experienceSection/ExperienceMain';
 import FooterMain from './components/footer/FooterMain';
 import HelperSection from './components/HelperSection';
-import HeroGradient from './components/heroSection/heroGradient';
+import HeroGradient from './components/heroSection/HeroGradient';
 import HeroMain from './components/heroSection/HeroMain';
 import SubHeroSection from './components/heroSection/SubHeroSection';
 import NavbarMain from './components/navbar/NavbarMain';
