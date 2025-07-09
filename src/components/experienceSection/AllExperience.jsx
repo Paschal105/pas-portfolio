@@ -7,29 +7,29 @@ import {fadeIn} from '../../framerMotion/variants';
 
 const experiences = [
     {
-        job:" Software Engineering",
-        company: "Alex Apps",
-        date: "2022 - Present",
+        job:" Front-End Engineering",
+        company: "Waoome",
+        date: "Jun 2024 - Present",
         responsibilities:[
-            "Worked in a team of 5 to develop a web app to improve money management during COVID-19",
-            "Built the web app's front end with JavaScript, HTML, and CSS, improving UI usability by 30% through user testing and feedback.",
-            "Provide support for student through thier learning journey",
+            "Built responsive, user-friendly interfaces with React and JavaScript, improving accessibility for 5000+ users.",
+            "Developed & maintained internal APIs, ensuring efficient data retrieval and seamless frontend/backend integration.", 
+            "Collaborated in Agile sprints using Git and CI/CD pipelines to deliver performance-optimized features, reducing page load times by 25%.",
         ]
     },
     {
-        job:" front End Developer",
-        company: "Alex Apps",
-        date: "2022 - Present",
+        job: "Software Engineering",
+        company: "Intern Hack",
+        date: "Jun 2021 - Aug 2021",
         responsibilities:[
             "Worked in a team of 5 to develop a web app to improve money management during COVID-19",
             "Built the web app's front end with JavaScript, HTML, and CSS, improving UI usability by 30% through user testing and feedback.",
-            "Provide support for student through thier learning journey",
+            "Using Agile methodology, each team member had a clear understanding of the project goals, improved code quality through weekly sprints, and adapted to changes effectively, preventing any major setbacks.",
         ]
     },
     {
-        job:" Full stack software engineer",
-        company: "Apple",
-        date: "2025 - Present",
+        job:"Sales Representative",
+        company: "Trinity Solar",
+        date: "Dec 2024 - Jan 2025",
         responsibilities:[
             "Worked in a team of 5 to develop a web app to improve money management during COVID-19",
             "Built the web app's front end with JavaScript, HTML, and CSS, improving UI usability by 30% through user testing and feedback.",

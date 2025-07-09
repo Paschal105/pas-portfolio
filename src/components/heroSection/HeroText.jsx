@@ -11,21 +11,21 @@ const HeroText = () => {
           initial='hidden'
           whileInView='show'
           viewport={{once: false, amount:0}}
-          className='lg:text-2xl sm:text-xl uppercase text-cyan'> Full-Stack Software Engineer  </motion.h2>
+          className='lg:text-2xl sm:text-xl uppercase text-cyan'>Hi, there I am</motion.h2>
         <motion.h1 
           variants={fadeIn('right', 0.4)}
           initial='hidden'
           whileInView='show'
           viewport={{once: false, amount:0}}          
-          className='md:text-[2.8rem] lg:text-6xl sm:text-4xl font-bold font special text-orange'> Paschal Ojatabu</motion.h1>
+          className='md:text-[2.8rem] lg:text-6xl sm:text-4xl font-bold font special text-orange'> Paschal </motion.h1>
         <motion.p 
           variants={fadeIn('up', 0.6)}
           initial='hidden'
           whileInView='show'
           viewport={{once: false, amount:0}}          
-          className='text-lg mt-4 text-white'>A pasionate engineer and problem solver
+          className='text-lg mt-4 text-white'>I solve overlooked problems with scalable, user-focused tech
             <br/>
-            with 1 year of experience
+            building stuff that are both practical and exciting.
         </motion.p>
     </div>
   )

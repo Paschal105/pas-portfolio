@@ -7,32 +7,32 @@ import {fadeIn} from '../../framerMotion/variants';
 
 const projects = [
     {
-        name:"Buddy",
-        year:"Mar2024",
+        name:"Code Buddy",
+        year:"Feb 2025",
         align:"right",
         image:"/images/website-img-1.jpg",
-        link:"#", 
+        link:"https://github.com/Paschal105/Code_Buddy", 
     },
     {
-        name:"Code",
-        year:"Mar2024",
+        name:"Plannar",
+        year:"Jan 2025",
         align:"left",
         image:"/images/website-img-2.webp",
-        link:"#", 
+        link:"https://paschal105.github.io/Student_Plannar/", 
     },
     {
-        name:"de Bu",
-        year:"Mar2024",
+        name:"Planet simulation",
+        year:"Mar 2024",
         align:"right",
         image:"/images/website-img-3.jpg",
-        link:"#", 
+        link:"https://github.com/Paschal105/Planet-simulation-", 
     },
     {
-        name:"Suiiii",
-        year:"Mar2024",
+        name:"Scrabble Game",
+        year:"May 2023",
         align:"left",
         image:"/images/website-img-4.jpg",
-        link:"#", 
+        link:"https://paschal105.github.io/Scrabble_game/landingPage.html", 
     },
 ];
 
@@ -50,7 +50,7 @@ const ProjectsMain = () => {
         
         <div className='flex flex-col gap-20 max-w-[900px] mx-auto mt-12'>
             {projects.map((item, index)=>{
-                return <SingleProject key={index} name={item.name} year={item.year} align={item.align} image={item.image} />
+                return <SingleProject key={index} name={item.name} year={item.year} align={item.align} image={item.image} link={item.link}/>
             })}
         </div>
     </div>

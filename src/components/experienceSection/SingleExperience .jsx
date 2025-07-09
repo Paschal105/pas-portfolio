@@ -11,7 +11,7 @@ const SingleExperience  = ({ experience }) => {
       initial='hidden'
       whileInView='show'
       viewport={{once: false, amount:0}}
-    className='md:h-[470px] md:w-[270px] sm:h-auto sm:w-full border-2 border-orange border-dashed rounded-2xl mt-12 p-4'>
+    className='md:h-[500px] md:w-[290px] sm:h-auto sm:w-full border-2 border-orange border-dashed rounded-2xl mt-12 p-4'>
         <p className='font-bold text-cyan'>{experience.job}</p>
         <p className='text-orange'>{experience.company}</p>
         <p className='text-lightGrey'>{experience.date}</p>

@@ -1,24 +1,25 @@
 import React from 'react'
-import { FaHtml5 } from "react-icons/fa";
-import { FaCss3Alt } from "react-icons/fa";
+import { FaNodeJs } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io";
 import { FaReact } from "react-icons/fa";
 import { FaPython } from "react-icons/fa";
 import { FaAws } from "react-icons/fa";
+import { DiPostgresql } from "react-icons/di";
 import { SiFastapi } from "react-icons/si";
 import { FaLinux } from "react-icons/fa6";
+import { FaDocker } from "react-icons/fa";
 // eslint-disable-next-line no-unused-vars
 import{ motion } from 'framer-motion';
 import {fadeIn} from '../../framerMotion/variants';
 
 const skills = [
   {
-    skill:'HTML',
-    icon: FaHtml5,
+    skill:'Docker',
+    icon: FaDocker,
   },
   {
-    skill:'CSS',
-    icon:FaCss3Alt,
+    skill:'Nodejs',
+    icon:FaNodeJs,
   },
   {
     skill:'JavaScript',
@@ -31,11 +32,10 @@ const skills = [
   {
     skill:"Python",
     icon: FaPython,
-
   },
   {
-    skill:"Linux",
-    icon: FaLinux  ,
+    skill:"PostgreSQL",
+    icon: DiPostgresql,
   },
   {
     skill:"FastAPI",
