@@ -9,7 +9,7 @@ const experiences = [
     {
         job:" Front-End Engineering",
         company: "Waoome",
-        date: "Jun 2024 - Present",
+        date: "Jun 2024 - Jun 2025",
         responsibilities:[
             "Built responsive, user-friendly interfaces with React and JavaScript, improving accessibility for 5000+ users.",
             "Developed & maintained internal APIs, ensuring efficient data retrieval and seamless frontend/backend integration.", 
