@@ -7,7 +7,7 @@ import {fadeIn} from '../../framerMotion/variants';
 
 const experiences = [
     {
-        job:" Front-End Engineering",
+        job:" Front-End Software Engineering",
         company: "Waoome",
         date: "Jun 2024 - Jun 2025",
         responsibilities:[
