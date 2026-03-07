@@ -24,6 +24,8 @@ const AboutMeText = () => {
           I learn fast, take full ownership of projects, and ship with production quality in mind. 
           Now I'm looking for a <span className='font-bold text-white'>full-time software engineering 
           role</span> where I can bring this entrepreneurial mindset to a team solving meaningful problems.
+        </p>
+        <p className='text-white'>
           Outside of tech, I play semi-pro soccer and create media content. Both taught me the importance 
           of collaboration, attention to detail, and iterating toward excellence.
         </p>
