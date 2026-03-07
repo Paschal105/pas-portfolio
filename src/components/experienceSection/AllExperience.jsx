@@ -7,13 +7,13 @@ import {fadeIn} from '../../framerMotion/variants';
 
 const experiences = [
     {
-        job:" Front-End Software Engineering",
-        company: "Waoome",
-        date: "Jun 2024 - Jun 2025",
+        job:"Technical Specialist",
+        company: "Apple",
+        date: "August 2025 - Present ",
         responsibilities:[
-            "Built responsive, user-friendly interfaces with React and JavaScript, improving accessibility for 5000+ users.",
-            "Developed & maintained internal APIs, ensuring efficient data retrieval and seamless frontend/backend integration.", 
-            "Collaborated in Agile sprints using Git and CI/CD pipelines to deliver performance-optimized features, reducing page load times by 25%.",
+            "Diagnose and resolve complex technical issues for 30+ customers daily",
+            "Communicate technical concepts effectively to non-technical users", 
+            "CCollaborate with cross-functional teams in fast-paced retail environment",
         ]
     },
     {
@@ -21,19 +21,20 @@ const experiences = [
         company: "Intern Hack",
         date: "Jun 2021 - Aug 2021",
         responsibilities:[
-            "Worked in a team of 5 to develop a web app to improve money management during COVID-19",
-            "Built the web app's front end with JavaScript, HTML, and CSS, improving UI usability by 30% through user testing and feedback.",
-            "Using Agile methodology, each team member had a clear understanding of the project goals, improved code quality through weekly sprints, and adapted to changes effectively, preventing any major setbacks.",
+            "Improved UI usability by 30% through user testing and iterative feedback",
+            "Developed responsive web application frontend using JavaScript, HTML, and CSS",
+            "Collaborated in Agile team environment with weekly sprints and code reviews",
         ]
     },
     {
-        job:"Sales Representative",
-        company: "Trinity Solar",
-        date: "Dec 2024 - Jan 2025",
+        job:"Freelance Software Engineer",
+        company: "Self-Employed",
+        date: "August 2024 - Present",
         responsibilities:[
-            "Worked in a team of 5 to develop a web app to improve money management during COVID-19",
-            "Built the web app's front end with JavaScript, HTML, and CSS, improving UI usability by 30% through user testing and feedback.",
-            "Provide support for student through thier learning journey",
+            "Developed AI-powered tools integrating Claude API for automated content analysis",
+            "Built custom web applications for small business clients using React and Next.js",
+            "Implemented responsive, mobile-first designs with Tailwind CSS",
+            "Delivered production-ready solutions deployed on Vercel with CI/CD pipelines",
         ]
     },
 ]

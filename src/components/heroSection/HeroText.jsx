@@ -23,9 +23,9 @@ const HeroText = () => {
           initial='hidden'
           whileInView='show'
           viewport={{once: false, amount:0}}          
-          className='text-lg mt-4 text-white'>I solve overlooked problems with scalable, user-focused tech
+          className='text-lg mt-4 text-white'>Full-Stack Developer building applications that solve real problems.
             <br/>
-            building stuff that are both practical and exciting.
+            REACT | NEXT.JS | PYTHON | FOUNDER @ PULSE
         </motion.p>
     </div>
   )

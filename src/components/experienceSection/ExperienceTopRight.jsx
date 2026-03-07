@@ -4,10 +4,13 @@ const ExperienceTopRight = () => {
   return (
     <div className='xl:w-[25%] lg:w-[30] border border-lightBrown p-4 rounded-xl'>
         <p className='text-lg text-center text-lightGrey'>
-          I like building things <span className='font-bold text-white'>that actually help people</span><div className=""></div>
-            Whether it is a tool that makes life a little easier or a fun project that keeps things interesting, 
-            I’m always creating with real users in mind. I enjoy <span className='font-bold text-white'>solving problems, learning</span> as I go,
-            and bringing ideas to life in a way that makes an impact.
+          I approach development with a <span className='font-bold text-white'>ship-fast, iterate-often mindset</span>—I 
+          build MVPs, get them in users' hands, and improve based on real feedback rather than waiting for perfection. 
+          Technically, I handle everything from database design and backend APIs to responsive frontends and CI/CD deployment, 
+          always writing <span className='font-bold text-white'>production-quality code</span> with proper error handling 
+          and documentation. What drives me isn't just writing code—it's <span className='font-bold text-white'>solving 
+          real problems</span> and seeing people actually use what I build, whether that's helping someone discover events 
+          in their city or saving a business owner hours on repetitive tasks.
 
 
         </p>
